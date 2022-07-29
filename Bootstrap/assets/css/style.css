@@ -1,0 +1,86 @@
+body{
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+header{
+    background-color: black;
+    height: 5em;
+    padding: 0.50em;
+    font-size: 1em;
+}
+header h1{
+    color: white;
+    text-align: center;
+    margin: 25px;
+}
+.background{
+    display:block;
+    margin:0px;
+    border-radius: 0px;
+    line-height: 0;
+}
+.fondo-iguana img{
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.description{
+    background-color: black;
+    height: 28em;
+    padding: 50px 100px;
+    margin: 0px;
+    line-height: 28px;
+}
+.description img{
+    float: right;
+    padding:0.75px;
+    margin: 0.75px;
+    height: 87% ;
+    width: 43%;
+}
+.description p{
+    display:flow-root;
+    color:whitesmoke;
+    font-size: 1.5em;
+    text-align: justify;
+    padding: 0.75em;
+}
+.features{
+    text-align: center;
+    font-size: 1.2em;
+    display: flow-root;
+    margin:0px;
+    padding: 3em;
+    color: white;
+    background-color: rgb(63, 55, 40);
+}
+.features i{
+    display: block;
+    padding: 0.5em;
+}
+.feature{
+    width: 30%;
+    padding: 1%;
+    float: left;
+}
+.gallery{
+    padding: 50px 100px;
+    background-color: black;
+}
+.photo{
+    display: inline-block;
+    width: 30%;
+    margin: 0.75%;
+    padding:0.75px;
+}
+.photo img{
+    width: 100%;
+}
+footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(63, 55, 40);
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    font-style: initial;
+}

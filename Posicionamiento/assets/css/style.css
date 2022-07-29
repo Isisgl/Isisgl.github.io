@@ -1,0 +1,45 @@
+body{
+    background:white;
+    font-family: 'Roboto', sans-serif;
+    margin:0px;
+}
+.bg-success-fondo{
+    background-color: #28A745;
+}
+.card-body h2{
+    font-weight: 300;
+    font-size: 1.25em;
+    color:#212529;
+}
+.card-body h5{
+    font-weight: 300;
+    font-size: 1em;
+    color:#707070;
+}
+.card-body span, .card-body small{
+    font-weight: 300;
+    font-size: 0.8em;
+    color:#707070;
+}
+.text-success-precios{
+    color:#28A745;
+}
+::placeholder{
+    font-weight: 300;
+}
+::-webkit-input-placeholder{
+    font-weight: 300;
+}
+.text-white{
+    font-weight: 500;
+}
+.button{
+    color:#212529;
+    border-bottom: #DDDDDD;
+    font-weight: 500;
+}
+footer{
+    color: #707070;
+    font-size: 1em;
+    font-weight: 300;
+}

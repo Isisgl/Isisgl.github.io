@@ -1,0 +1,54 @@
+body {
+    background-color:rgb(235, 239, 244);
+    font-family:sans-serif;
+}
+
+.header{
+    height: 3.5em;
+    padding: 5em;
+    font-size: 2em;
+    background-image: url("../imgs/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    margin:auto;
+    }
+
+.header h1{
+    margin: 20px;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+}
+
+.header p{
+    font-size: 1em;
+    font-weight: 400;
+    font-style:unset;
+    color:white;
+    text-align: center;
+    }
+
+.fotografías {
+    width: 80%;
+    margin: auto;
+    }
+
+.fotografías td{
+    width: 50%;
+    padding: 2em;
+    }
+
+.fotografías img{
+    width: 100%;
+    border: solid 2px rgb(50, 50, 116);
+    }
+
+.footer{
+    height: 3em;
+    line-height: 3em;
+    background-color: rgb(50, 50, 116);
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    font-style:initial;
+    }
