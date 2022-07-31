@@ -1,0 +1,13 @@
+body{
+    font-family: "Open Sans", sans-serif;
+}
+#Banner-Section {
+    background-image: url("../imgs/bannerfondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    font-weight: 800;
+}
+#Banner-Section p{
+    font-weight: 400;
+}
