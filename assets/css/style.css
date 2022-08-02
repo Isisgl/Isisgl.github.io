@@ -10,4 +10,159 @@ body{
 }
 #Banner-Section p{
     font-weight: 400;
+    color:white;
 }
+#Acerca-de-mi i{
+color:rgb(195, 7, 208);
+font-weight: 500;
+}
+#Acerca-de-mi h2, h4, p{
+    color:rgb(82, 84, 92);
+}
+#Datos-personales h2{
+    color:rgb(82, 84, 92);
+    margin-bottom: 40px;
+    font-weight: 700;
+    padding-top: 40px;
+}
+#Datos-personales{
+    background-color:#eeeded;
+    overflow: hidden;
+    height: 35em;
+    padding: 20px 100px;
+    margin: 0px;
+    line-height: 28px;
+}
+#Datos-personales p{
+   color: rgb(82, 84, 92);
+}
+
+.redes-sociales{
+    display:flex;
+    list-style:none;
+    justify-content:center;
+    padding:0;
+}
+.redes-sociales a{
+    padding:10px;
+    color:rgb(6, 185, 188);
+    font-size:19px;
+}
+.buttons button:nth-child(1){
+    border:1px solid rgb(6, 185, 188) !important;
+    color:rgb(6, 185, 188);
+    height:40px;
+}
+
+.buttons button:nth-child(1):hover{
+    border:1px solid rgb(6, 185, 188) !important;
+    color:#fff;
+    height:40px;
+    background-color:rgb(6, 185, 188);
+}
+
+.buttons button:nth-child(2){
+    border:1px solid rgb(6, 185, 188) !important;
+    background-color:rgb(6, 185, 188);
+    color:#fff;
+     height:40px;
+}
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Servicios h2, h3, p{
+    color:rgb(82, 84, 92);
+}
+#Servicios i{
+    color:rgb(195, 7, 208);
+}
+#Mis-trabajos{
+    background-color: #000000;
+}
+#Mis-trabajos h2{
+    color:rgb(6, 185, 188);
+    font-weight: 700;
+}
+#Mis-trabajos .image-top {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  #Mis-trabajos i{
+    color: dimgrey;
+  }
+  #Mis-trabajos .card:hover{
+    transform:translateY(-15px);
+    overflow: hidden;
+    transition: all 0,50s;
+  }
+  .card span{
+    font-weight: 300;
+    font-size: 0.8 em;
+    color: dimgrey;
+  }
+  .features i{
+    text-align: center;
+    margin:8px;
+    color: white;
+}
+
+/*Formulario*/
+.button{
+    color:#212529;
+    border-bottom: #DDDDDD;
+    font-weight: 500;
+}
+/*Footer*/
+.footer{
+    font-size: 1em;
+    font-weight: 500;
+}
+.bg-danger-fondo{
+    background-color:#cf2ca4;
+}
+
+
